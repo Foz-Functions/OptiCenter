@@ -2,7 +2,7 @@
 <Site BuildName="Win32-MSBuild"
 	BuildStamp="20230618-0228-Experimental"
 	Name="FozsLaptop"
-	Generator="ctest-3.25.1-msvc1"
+	Generator="ctest-3.27.0-rc2"
 	CompilerName="C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.35.32215/bin/Hostx86/x64/cl.exe"
 	CompilerVersion="19.35.32215.0"
 	OSName="Windows"
@@ -24,11 +24,11 @@
 	ProcessorClockFrequency="2995"
 	>
 	<Testing>
-		<StartDateTime>Jun 17 22:28 Eastern Daylight Time</StartDateTime>
-		<StartTestTime>1687055315</StartTestTime>
+		<StartDateTime>Jun 17 23:16 Eastern Daylight Time</StartDateTime>
+		<StartTestTime>1687058170</StartTestTime>
 		<TestList/>
-		<EndDateTime>Jun 17 22:28 Eastern Daylight Time</EndDateTime>
-		<EndTestTime>1687055315</EndTestTime>
+		<EndDateTime>Jun 17 23:16 Eastern Daylight Time</EndDateTime>
+		<EndTestTime>1687058170</EndTestTime>
 		<ElapsedMinutes>0</ElapsedMinutes>
 	</Testing>
 </Site>

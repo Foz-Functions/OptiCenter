@@ -6,8 +6,28 @@
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
+    <None Include="C:\Users\nathd\OneDrive\Documents\Code Projects\Opticenter\OptiCenter\lib\opencv\build\x64\vc16\lib\OpenCVConfig-version.cmake">
+      <Filter>Buildsystem Input Files\lib\opencv\build\x64\vc16\lib</Filter>
+    </None>
+    <None Include="C:\Users\nathd\OneDrive\Documents\Code Projects\Opticenter\OptiCenter\lib\opencv\build\x64\vc16\lib\OpenCVConfig.cmake">
+      <Filter>Buildsystem Input Files\lib\opencv\build\x64\vc16\lib</Filter>
+    </None>
+    <None Include="C:\Users\nathd\OneDrive\Documents\Code Projects\Opticenter\OptiCenter\lib\opencv\build\x64\vc16\lib\OpenCVModules-debug.cmake">
+      <Filter>Buildsystem Input Files\lib\opencv\build\x64\vc16\lib</Filter>
+    </None>
+    <None Include="C:\Users\nathd\OneDrive\Documents\Code Projects\Opticenter\OptiCenter\lib\opencv\build\x64\vc16\lib\OpenCVModules-release.cmake">
+      <Filter>Buildsystem Input Files\lib\opencv\build\x64\vc16\lib</Filter>
+    </None>
+    <None Include="C:\Users\nathd\OneDrive\Documents\Code Projects\Opticenter\OptiCenter\lib\opencv\build\x64\vc16\lib\OpenCVModules.cmake">
+      <Filter>Buildsystem Input Files\lib\opencv\build\x64\vc16\lib</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
     <Filter Include="CMake Rules">
       <UniqueIdentifier>{C7B22555-DAB6-307A-953A-DA3236E9C27F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\lib\opencv\build\x64\vc16\lib">
+      <UniqueIdentifier>{3967D8D3-E0CD-392C-87F6-29E9CFB4E14D}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
